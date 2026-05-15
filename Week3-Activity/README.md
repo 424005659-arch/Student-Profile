@@ -25,7 +25,7 @@ Open the 'index.html' file in your browser:
 4. Decide which words to read more carefully by using the links to other pages on the web
 
 • Author
-First Name: Keanu (If necessary add/remove)
+First Name: Keanu
 
 • Date
 May 15, 2026
