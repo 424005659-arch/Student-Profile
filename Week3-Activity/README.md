@@ -1,4 +1,4 @@
-Creating a multi-page student profile website.Making a multi-page student profile website.
+Creating a multi-page student profile website. Making a multi-page student profile website.
 
 • Project Description -
 This is a modest multi-page web site which displays a student profile. It consists of a text page explaining the bio and a text page for a contact form. This activity aims to practise simple structure, navigation, lists, image and form.
